@@ -1,52 +1,31 @@
-![Web Developer Roadmap - 2019](https://i.imgur.com/s5cCV9q.png)
+![Web Developer Roadmap - 2019](https://savvoff.github.io/common/img/webdev-2019.png)
 
-> Roadmap to becoming a web developer in 2019
+> Карта необходимых навыков для карьеры веб-разработчика в **2019**
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+Ниже находится набор svg-диаграмм, демонстрирующих пути и технологии необходимые для того, чтобы стать фронтом, бэкэндом или девопом. Это руссифицированная и переработанная версия <a href="http://roadmap.sh">roadmap.sh</a>.
 
-If you think that these can be improved in anyway, please do suggest.
+Если вы считаете, что их можно улучшить / дополнить, присылайте свои [Issues](/issues).
 
-***
-<p align="center"><b> 🎉 We are working on a more concise version of these roadmaps 🎉 </b><br>Keep your eyes on <a href="http://roadmap.sh">roadmap.sh</a> for the details!</p>
+> Цель этих карт в том, чтобы дать вам представление о масштабах направления и помочь делать дальнейший выбор. Вы должны лучше понять, почему один инструмент лучше подходит для некоторых случаев, чем другой, и помните, что крутая технология не означает, что она лучше справится с предоставленными задачами.
 
-***
+## Front-end карта
 
-> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
+![Front-end карта](./images/frontend.svg)
 
-## Introduction
+## Back-end карта
 
-![Web Developer Roadmap Introduction](./images/intro.png)
+*`В разработке`*
 
-## Frontend Roadmap
+## DevOps карта
 
-![Frontend Roadmap](./images/frontend.png?fix=531)
+*`В разработке`*
 
-## Back-end Roadmap
+## 🚦 В завершении
 
-![Back-end Roadmap](./images/backend.png)
+Если вы считаете, что какие-либо карты могут быть улучшены, пожалуйста, откройте <mark>Pull Request</mark> с любыми обновлениями и вопросами. Кроме того, я буду продолжать улучшать и обновлять, так что вы можете пометить этот репозиторий, чтобы вернуться к нему.
 
-## DevOps Roadmap
+## 🤝 Содействие 
 
-![DevOps Roadmap](./images/devops.png)
+> Загляните в [contributing docs](./contributing.md) для редактирования карт.
 
-## 🚦 Wrap Up
-
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
-
-## 🙌 Contribution
-
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
-
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
-
-## Sponsored By	
-
- - [**Hackr.io** - Best Online Programming Courses & Tutorials Recommended by the Programming Community](https://hackr.io)
- - [**Noon** – Develop, Document, Test and Monitor your APIs](https://noon.sh/)
- 
-## License
-
-[![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
+Связь со мной [facebook](https://facebook.com/savvoff)

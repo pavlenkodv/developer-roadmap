@@ -1,32 +1,32 @@
-## The Goal
-Our goal is not to have the biggest list of everything available out there.
-Our goal is to have a list of things that anybody would have to learn if they were to enter the field today. 
+## Цель
+Наша цель не состоит в том, чтобы иметь самый большой список библиотек / фреймворков / технологий.
+Наша цель - составить список вещей, которые каждый должен знать, если бы сегодня стал заниматься веб-разработкой.
 
-## Contributing
+## Содействие
 
-Your contributions to this repo are always welcome!
-Bear in mind, that this repo is *highly opinionated*, *unbiased* and *curated*.
-Your opinion on value of any resource may not match the opinion of curator.
+Все ваши замечания, пожелания и предложения приветствуются!
+Ваше мнение о важности (наличии) любого ресурса может не совпадать с мнением автора.
 
-**No PR will be discarded without explanations!**
+**Ни один PR не будет отброшен без объяснений!**
 
-## How are these roadmaps made?
+## Как создавать(лись) карты?
 
-> Roadmaps are made using [Balsamiq](https://balsamiq.com/download/)
+> Карты создавались с использованием ресурса [Draw.io](https://www.draw.io/)
 
-* Clone the repository
-* Open Balsamiq, click <kbd>Project > Import > Mockup JSON</kbd>,
-* Copy and paste the JSON for the roadmap that you want to update
-* Add your changes
-* Export the JSON file <kbd>Project > Export > Mockup to JSON</kbd> and put it in the <kbd>project</kbd> directory
-* Export the image <kbd>Project > Export > Current Mockup to PNG</kbd> and put it in the <kbd>images</kbd> directory
-* Commits your changes and open a PR
+* Клонировать репозиторий
+* Открыть сайт https://www.draw.io/
+* Закрыть модальное окно (тут же можно изменить язык сайта [*иконка глобуса*])
+* Далее кликнуть <kbd>File > Open from > GitHub...</kbd>
+* или <kbd>File > Open from > Device...</kbd>, из папки проекта файл `*.drawio`
+* Добавить свои изменения
+* Экспортировать результат <kbd>File > Export as > SVG...</kbd> и положить картинку в папку <kbd>\*project directory\* / images</kbd> с соответствующим названием
+* Комитнуть изменения и открыть Pull Request
 
 ## Guidelines
 
-- <p><strong>Adding everything available out there is not the goal!</strong><br> 
-  The roadmaps represents the skillset most valuable today i.e. if you were to enter any of the listed fields today, what would you learn! There might be things that are of-course being used today but prioritize the things that are most in demand today e.g. agreed that lots of people are using angular.js today but you wouldn't want to learn that instead of React, Angular or Vue. Use your critical thinking to filter out non-essential stuff. Give honest arguments for why the resource should be included.</p>
-- <p><strong>One item per Pull Request</strong><br>
-  There may be a discussion related to an item you want to add. Adding just a single item per pull request makes it much easier for everyone involved.</p>
-- Write meaningful commit messages
-- Look at the existing issues/pull requests before opening new ones
+- <p><strong>Добавлять всё подряд не нужно</strong><br> 
+  Карты представляют собой набор навыков, которые наиболее ценны сегодня, т.е. если бы вы прямо сейчас выбрали свой путь (судьбу 😃), то результата не стоило бы долго ждать! Могут быть вещи, которые, конечно, сегодня используются, но нужно верно расставить приоритеты. Например, согласитесь, что многие люди используют AngularJS, но вы не хотите изучать его вместо React, Angular или Vue. Используйте своё критическое мышление, чтобы отфильтровать ненужные вещи. Приведите свои доводы о том, почему эменно эту вещь нужно включить в список карты.</p>
+- <p><strong>Одна технология за PR</strong><br>
+  Для того, чтобы дискуссия была гибкой и максимально эффективной - добавляйте одно изменение в диаграмму за PR</p>
+- Подробно описывайте коммиты
+- Обратите внимания на существующие `issues / pull requests` перед открытием новых
