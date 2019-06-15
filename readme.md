@@ -14,7 +14,7 @@
 
 ## Back-end карта
 
-*`В разработке`*
+![Back-end карта](./images/backend.svg)
 
 ## DevOps карта
 
