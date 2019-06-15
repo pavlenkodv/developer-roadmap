@@ -15,9 +15,9 @@
 
 * Клонировать репозиторий
 * Открыть сайт https://www.draw.io/
-* Закрыть модальное окно (тут же можно изменить язык сайта [*иконка глобуса*])
-* Далее кликнуть <kbd>File > Open from > GitHub...</kbd>
-* или <kbd>File > Open from > Device...</kbd>, из папки проекта файл `*.drawio`
+* Выбрать, где взять файл диаграммы: <kbd>From device / Github</kbd> (тут же можно изменить язык сайта [*иконка глобуса*])<br>
+  или кликнуть <kbd>File > Open from > GitHub...</kbd><br>
+  или <kbd>File > Open from > Device...</kbd>, из папки проекта файл `*.drawio`
 * Добавить свои изменения
 * Экспортировать результат <kbd>File > Export as > SVG...</kbd> и положить картинку в папку <kbd>\*project directory\* / images</kbd> с соответствующим названием
 * Комитнуть изменения и открыть Pull Request
